@@ -1,1 +1,1 @@
-# sai-
+# sai- I am Studying Msc Data Science in Kingston University. I am from a Mechanical background and trying to explore the field of data science. I request you to suggest me some good Source where we can learn ML,AI and Deep learning concepts indepth and detail alongside with practical applications.
